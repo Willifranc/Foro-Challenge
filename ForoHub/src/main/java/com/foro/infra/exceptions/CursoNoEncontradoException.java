@@ -1,4 +1,4 @@
-package com.foro.infra;
+package com.foro.infra.exceptions;
 
 public class CursoNoEncontradoException extends RuntimeException{
     public CursoNoEncontradoException(Long id) {

@@ -1,5 +1,6 @@
-package com.foro.entities.topico;
+package com.foro.controller;
 
+import com.foro.entities.topico.*;
 import jakarta.transaction.Transactional;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;

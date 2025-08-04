@@ -1,4 +1,4 @@
-package com.foro.infra;
+package com.foro.infra.exceptions;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
