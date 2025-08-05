@@ -37,7 +37,7 @@ Este proyecto forma parte del **Desafío Alura**, y tiene como objetivo aplicar 
 ---
 ## 🧩 Estructura del proyecto (simplificada)
 
-src/
+```src/
 ├── main/
 │ ├── java/com/foro/
 │ │ ├── controller/ # Controladores REST
