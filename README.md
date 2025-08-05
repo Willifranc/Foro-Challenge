@@ -8,7 +8,7 @@ Este proyecto forma parte del **Desafío Alura**, y tiene como objetivo aplicar 
 - Persistencia de datos con JPA y MySQL
 - Migraciones automáticas con Flyway
 - Seguridad con JWT
-- Pruebas con Insomnia
+- Pruebas con Insomnia.
 
 ---
 ## 🚀 Funcionalidades principales
